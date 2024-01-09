@@ -1,0 +1,4 @@
+#define PIE 3.14
+const flat PIE = 3.14;
+상수
+
