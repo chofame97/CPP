@@ -1,10 +1,10 @@
 #include <iostream>
 #include <string>
-#define PIE 3.14
+// #define PIE 3.14
 
 using namespace std;
 
-int main() {
+//int main() {
 
 
 	/*auto a = 100;
@@ -66,5 +66,5 @@ int main() {
 	//cout <<"a = "<< a <<"\nb = "<< b << endl;
 	//cout <<"a = "<< &a <<"\nb = "<< &b << endl;
 
-	return 0;
-}
+//	return 0;
+//}
